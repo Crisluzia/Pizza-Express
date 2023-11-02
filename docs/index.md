@@ -113,11 +113,11 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Diagrama de sequencia
 
-![Diagrama login-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/63def356-89b8-45bf-9584-c0b8c9bc50d9)
 
-![Diagrama de sequencia fazer pedido-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/68df9fa6-3eee-4b1c-a749-16b0e444e29e)
 
-![Diagrama de sequencia restaurante-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/021fed44-1eab-4a57-bd9c-9dc0b765704c)
+![login](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/d30698e1-905b-4a23-8f12-bff64281b29e)
+![pedido](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/062cd011-f14d-46f7-927b-a7bc8654bac2)
+![restaurante](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/504f11d4-a376-49a4-8c31-41d7ca311322)
 
 
 
